@@ -18,7 +18,7 @@ Voor Verzoeken en Zaken zijn er verschillende registraties onderkend. Ook is er 
 
 ![Schematische weergave van de verschillende registraties](./registraties.png)
 
-## Hoe Signalen en Openzaak kunnen samenwerken
+## Een casus met Signalen en Openzaak
 
 Als we het ontwerp van VNG voor Zaakgericht werken toepassen op een specifieke implementatie met Signalen en Openzaak zien we hoe de twee samen kunnen werken.
 
