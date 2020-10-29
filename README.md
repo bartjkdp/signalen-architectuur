@@ -10,9 +10,7 @@ Sinds begin dit jaar is de software van Signalen geschikt gemaakt voor andere ge
 
 ## Het verschil tussen een Melding en een Zaak
 
-In [Zaakgericht Werken in het Gemeentelijk Gegevenslandschap](https://www.gemmaonline.nl/images/gemmaonline/f/fa/20190206_-_Zaakgericht_werken_in_het_Gemeentelijk_Gegevenslandschap.pdf) (4.1) wordt er onderscheid gemaakt tussen een Melding / Verzoek en een Zaak. Hierbij is een Verzoek een generieke naam voor een Melding.
-
-Hierbij is het belangrijk om te vermelden dat één verzoek kan leiden tot meerdere zaken, maar ook dat meerdere verzoeken kunnen leiden tot één zaak. Bijvoorbeeld meerdere meldingen openbare ruimte over een kapotte straatlantaarn kunnen met één zaak afgehandeld worden. Er is dus geen strikte een-op-een relatie.
+In [Zaakgericht Werken in het Gemeentelijk Gegevenslandschap](https://www.gemmaonline.nl/images/gemmaonline/f/fa/20190206_-_Zaakgericht_werken_in_het_Gemeentelijk_Gegevenslandschap.pdf) (4.1) wordt er onderscheid gemaakt tussen een Melding / Verzoek en een Zaak. Hierbij is een Verzoek een generieke naam voor een Melding. Een melding wordt gedaan door een burger en kan - afhankelijk van de aard van de melding - opgewaardeerd worden tot een zaak. Hierbij is het belangrijk om te vermelden dat één verzoek kan leiden tot meerdere zaken, maar ook dat meerdere verzoeken kunnen leiden tot één zaak. Bijvoorbeeld meerdere meldingen openbare ruimte over een kapotte straatlantaarn kunnen met één zaak afgehandeld worden. Er is dus geen strikte een-op-een relatie.
 
 Voor Verzoeken en Zaken zijn er verschillende registraties onderkend. Ook is er ruimte voor een losse registratie voor een Melding, waarbij melding-specifieke gegevens in de Meldingenregistratie worden bijgehouden.
 
