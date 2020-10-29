@@ -24,7 +24,7 @@ Als we het ontwerp van VNG voor Zaakgericht werken toepassen op een specifieke i
 1. Een medewerker beoordeelt de binnengekomen melding in de Signalen backoffice en handelt meldingen direct in de backoffice af waar geen behandeling voor nodig is.
 1. Voor een melding die niet direct afgehandeld kan worden worden één of meerdere zaken aangemaakt in Openzaak onder het gewenste zaaktype.
 1. Een medewerker met een (gespecialiseerde) taakapplicatie handelt vervolgens de zaak af.
-1. De status van de afgehandelde zaak wordt automatisch via een notificatie teruggekoppeld aan Signalen. Op het moment dat alle onderliggnede zaken in Openzaak zijn afgehandeld wordt een Melding in signalen automatisch gesloten.
+1. De status van de afgehandelde zaak wordt automatisch via een notificatie teruggekoppeld aan Signalen. Op het moment dat alle onderliggende zaken in Openzaak zijn afgehandeld wordt een Melding in signalen automatisch gesloten.
 
 ![Architectuur met Signalen en Openzaak](./architectuur.png)
 
