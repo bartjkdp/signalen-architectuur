@@ -20,7 +20,7 @@ Voor Verzoeken en Zaken zijn er verschillende registraties onderkend. Ook is er 
 
 Als we het ontwerp van VNG voor Zaakgericht werken toepassen op een specifieke implementatie met Signalen en Openzaak zien we hoe de twee samen kunnen werken.
 
-1. Een burger doet een melding via de Signalen frontend.
+1. Een inwoner doet een melding via de Signalen frontend.
 1. Een medewerker beoordeelt de binnengekomen melding in de Signalen backoffice en handelt meldingen direct in de backoffice af waar geen behandeling voor nodig is.
 1. Voor een melding die niet direct afgehandeld kan worden worden één of meerdere zaken aangemaakt in Openzaak onder het gewenste zaaktype.
 1. Een medewerker met een (gespecialiseerde) taakapplicatie handelt vervolgens de zaak af.
