@@ -1,4 +1,4 @@
-# De relatie tussen Signalen en aakgericht werken (ZGW)
+# De relatie tussen Signalen en zaakgericht werken (ZGW)
 
 Zaakgericht werken is een concept dat veel gebruikt wordt in gemeenten, maar kent in de praktijk veel vormen en implementatievarianten. VNG werkt met [GEMMA](https://www.gemmaonline.nl/index.php/ZGW_in_GEMMA_2) aan het richtinggeven en standaardiseren van Zaakgericht werken, onder andere door het opstellen van [API specificaties](https://vng-realisatie.github.io/gemma-zaken/).
 
