@@ -15,7 +15,7 @@ In [Zaakgericht Werken in het Gemeentelijk Gegevenslandschap](https://www.gemmao
 - Melding: een binnenkomende mededeling (kennisgeving) over een gebeurtenis, geconstateerde waarneming of een geconstateerd feit. Een meer generieke naam voor een Melding is een Verzoek.
 - Zaak: een samenhangende hoeveelheid werk met een gedefinieerde aanleiding en een gedefinieerd resultaat waarvan kwaliteit en doorlooptijd bewaakt moeten worden.
 
-Een melding wordt dus normaal gedaan door een extern persoon (bijvoorbeeld een inwoner) en kan - afhankelijk van de aard van de melding - opgewaardeerd worden tot een zaak wanneer de melding verdere behandeling behoeft. Wanneer een melding geen verdere behandeling behoeft kan een melding ook direct afgesloten worden.
+Een melding wordt dus normaal gedaan door een extern persoon (bijvoorbeeld een inwoner) en kan - afhankelijk van de aard van de melding - intern opgewaardeerd worden tot een zaak wanneer de melding verdere behandeling behoeft. Wanneer een melding geen verdere behandeling behoeft kan een melding ook direct afgehandeld worden.
 
 Hierbij is het belangrijk om te vermelden dat één verzoek kan leiden tot meerdere zaken, maar ook dat meerdere verzoeken kunnen leiden tot één zaak. Bijvoorbeeld meerdere meldingen openbare ruimte over één kapotte straatlantaarn kunnen met één zaak afgehandeld worden. Er is dus geen strikte één-op-één relatie.
 
