@@ -21,7 +21,6 @@ Hierbij is het belangrijk om te vermelden dat één melding kan leiden tot meerd
 
 Voor Meldingen en Zaken zijn er verschillende registraties onderkend. Er wordt een register voorzien voor meldingen, waarbij melding-specifieke gegevens in het Meldingenregister worden bijgehouden.
 
-(Verzoeken API voorlopig weglaten vanwege discussie over het concept)
 ![Schematische weergave van de verschillende registraties](./registraties.png)
 
 ## Een casus met Signalen en Openzaak
@@ -32,13 +31,13 @@ Als we het ontwerp van VNG voor Zaakgericht werken toepassen op een specifieke i
 1. Een medewerker beoordeelt de binnengekomen melding in de Signalen backoffice en handelt meldingen direct in de backoffice af waar geen behandeling voor nodig is.
 1. Voor een melding die niet direct afgehandeld kan worden worden één of meerdere zaken aangemaakt in Openzaak onder het gewenste zaaktype.
 1. Een medewerker met een (gespecialiseerde) taakapplicatie handelt vervolgens de zaak af via Openzaak.
-1. De status van de afgehandelde zaak wordt automatisch via een notificatie teruggekoppeld aan Signalen (er worden notificaties verstuurd naar abonnees, dat kan Signalen zijn maar wat gebeurt er dan in Signalen? De inwoner wilt dit weten, dus aan de PIP). Op het moment dat alle onderliggende zaken in Openzaak zijn afgehandeld wordt een Melding in Signalen automatisch gesloten.
+1. De status van de afgehandelde zaak wordt automatisch via een notificatie teruggekoppeld aan Signalen. Op het moment dat alle onderliggende zaken in Openzaak zijn afgehandeld wordt een Melding in Signalen automatisch gesloten en kan de melder een notificatie per e-mail hierover ontvangen.
 
 ![Architectuur met Signalen en Openzaak](./architectuur.png)
 
 ## Referenties
 
 - Gebaseerd op https://github.com/MarcelMoerman/Zaak-Document-Services
-
-refereren naar de API's voor ZGW https://github.com/VNG-Realisatie/gemma-zaken
-of documentatiesite https://vng-realisatie.github.io/gemma-zaken/
+- [API's voor zaakgericht werken
+](https://vng-realisatie.github.io/gemma-zaken/)
+- [Zaakgericht Werken in het Gemeentelijk Gegevenslandschap](https://www.gemmaonline.nl/images/gemmaonline/f/fa/20190206_-_Zaakgericht_werken_in_het_Gemeentelijk_Gegevenslandschap.pdf)
