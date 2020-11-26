@@ -37,7 +37,7 @@ Als we het ontwerp van VNG voor Zaakgericht werken toepassen op een specifieke i
 
 ## Referenties
 
-- Gebaseerd op https://github.com/MarcelMoerman/Zaak-Document-Services
+- [Marcel Moerman - Zaak Document Services](https://github.com/MarcelMoerman/Zaak-Document-Services)
 - [API's voor zaakgericht werken
 ](https://vng-realisatie.github.io/gemma-zaken/)
 - [Zaakgericht Werken in het Gemeentelijk Gegevenslandschap](https://www.gemmaonline.nl/images/gemmaonline/f/fa/20190206_-_Zaakgericht_werken_in_het_Gemeentelijk_Gegevenslandschap.pdf)
