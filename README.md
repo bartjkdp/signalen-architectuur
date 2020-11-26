@@ -12,14 +12,14 @@ Sinds begin 2020 is de software van Signalen geschikt gemaakt voor andere gemeen
 
 In [Zaakgericht Werken in het Gemeentelijk Gegevenslandschap](https://www.gemmaonline.nl/images/gemmaonline/f/fa/20190206_-_Zaakgericht_werken_in_het_Gemeentelijk_Gegevenslandschap.pdf) (4.1) wordt er onderscheid gemaakt tussen een Melding en een Zaak.
 
-- Melding: een binnenkomende mededeling (kennisgeving) over een gebeurtenis, geconstateerde waarneming of een geconstateerd feit. Een meer generieke naam voor een Melding is een Verzoek.
+- Melding: een binnenkomende mededeling (kennisgeving) over een gebeurtenis, geconstateerde waarneming of een geconstateerd feit. 
 - Zaak: een samenhangende hoeveelheid werk met een gedefinieerde aanleiding en een gedefinieerd resultaat waarvan kwaliteit en doorlooptijd bewaakt moeten worden.
 
-Een melding wordt dus normaal gedaan door een extern persoon (bijvoorbeeld een inwoner) en kan - afhankelijk van de aard van de melding - intern opgewaardeerd worden tot een zaak wanneer de melding verdere behandeling behoeft. Wanneer een melding geen verdere behandeling behoeft kan een melding ook direct afgehandeld worden.
+Een melding wordt dus normaal gedaan door een extern persoon (bijvoorbeeld een inwoner) en kan - afhankelijk van de aard van de melding - leiden tot een zaak wanneer de melding verdere behandeling behoeft. Wanneer een melding geen verdere behandeling behoeft kan ook besloten worden geen zaak aan te make of de zaak voortijdig af te sluiten.
 
 Hierbij is het belangrijk om te vermelden dat één melding kan leiden tot meerdere zaken, maar ook dat meerdere meldingen kunnen leiden tot één zaak. Bijvoorbeeld meerdere meldingen over één kapotte straatlantaarn kunnen met één zaak afgehandeld worden. Er is dus geen strikte één-op-één relatie.
 
-Voor Meldingen / Verzoeken en Zaken zijn er verschillende registraties onderkend. Ook is er ruimte voor een losse registratie voor een Melding, waarbij melding-specifieke gegevens in de Meldingenregistratie worden bijgehouden.
+Voor Meldingen en Zaken zijn er verschillende registraties onderkend. Er wordt een register voorzien voor meldingen, waarbij melding-specifieke gegevens in het Meldingenregister worden bijgehouden.
 
 ![Schematische weergave van de verschillende registraties](./registraties.png)
 
@@ -31,10 +31,13 @@ Als we het ontwerp van VNG voor Zaakgericht werken toepassen op een specifieke i
 1. Een medewerker beoordeelt de binnengekomen melding in de Signalen backoffice en handelt meldingen direct in de backoffice af waar geen behandeling voor nodig is.
 1. Voor een melding die niet direct afgehandeld kan worden worden één of meerdere zaken aangemaakt in Openzaak onder het gewenste zaaktype.
 1. Een medewerker met een (gespecialiseerde) taakapplicatie handelt vervolgens de zaak af via Openzaak.
-1. De status van de afgehandelde zaak wordt automatisch via een notificatie teruggekoppeld aan Signalen. Op het moment dat alle onderliggende zaken in Openzaak zijn afgehandeld wordt een Melding in Signalen automatisch gesloten.
+1. De status van de afgehandelde zaak wordt automatisch via een notificatie teruggekoppeld aan Signalen. Op het moment dat alle onderliggende zaken in Openzaak zijn afgehandeld wordt een Melding in Signalen automatisch gesloten en kan de melder een notificatie per e-mail hierover ontvangen.
 
 ![Architectuur met Signalen en Openzaak](./architectuur.png)
 
 ## Referenties
 
 - Gebaseerd op https://github.com/MarcelMoerman/Zaak-Document-Services
+- [API's voor zaakgericht werken
+](https://vng-realisatie.github.io/gemma-zaken/)
+- [Zaakgericht Werken in het Gemeentelijk Gegevenslandschap](https://www.gemmaonline.nl/images/gemmaonline/f/fa/20190206_-_Zaakgericht_werken_in_het_Gemeentelijk_Gegevenslandschap.pdf)
