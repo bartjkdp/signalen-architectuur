@@ -4,7 +4,7 @@ Signalen wordt [open source ontwikkeld op Github](https://github.com/Signalen). 
 
 Ontwikkelaars uit de hele wereld kunnen via Github wijzigingen aan de code van Signalen voorstellen door middel van een pull request. Na goedkeuring van een van de Signalen teamleden wordt een wijziging doorgevoerd in een nieuwe versie van Signalen.
 
-Via Github worden ook nieuwe versies van de software gepubliceerd. Voor elke nieuwe versie op Github wordt automatisch een [Docker image](https://hub.docker.com/u/signalen) op Dockerhub gepubliceerd met een bijbehorende [Helm chart](https://github.com/signalen/helm-charts). Hiermee kan een gemeente eenvoudig de Signalen software installeren op hun eigen omgeving. Op de eigen omgeving van de gemeente wordt ook de gemeente-specifieke configuratie zoals het logo en de gemeentenaam toegevoegd.
+Via Github worden ook nieuwe versies van de software gepubliceerd. Voor elke nieuwe versie op Github wordt automatisch een [Docker image](https://hub.docker.com/u/signalen) op Dockerhub gepubliceerd. Ook zijn er bijbehorende [Helm charts](https://github.com/signalen/helm-charts) beschikbaar. Hiermee kan een gemeente eenvoudig de Signalen software installeren op hun eigen omgeving. Op de eigen omgeving van de gemeente wordt ook de gemeente-specifieke configuratie zoals het logo en de gemeentenaam toegevoegd.
 
 Doordat nieuwe versies van de software iedere keer op Dockerhub gepubliceerd worden, kunnen gemeenten eenvoudig nieuwe versies van de software installeren.
 
