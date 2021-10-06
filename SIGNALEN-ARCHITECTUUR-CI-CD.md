@@ -10,7 +10,7 @@ Doordat nieuwe versies van de software iedere keer op Dockerhub gepubliceerd wor
 
 ## Haven
 
-Signalen sluit goed aan op [Haven](https://haven.commonground.nl/), een kandidaat-standaard van VNG voor cloud-agnostische infrastructuur. De Haven standaard schrijft een specifieke inrichting van [Kubernetes](https://kubernetes.io/) voor en zorgt daarmee voor een generieke basis zodat centraal ontwikkelde applicaties zoals Signalen zonder problemen kunnen draaien op gemeente-specifieke omgevingen.
+Signalen sluit goed aan op [Haven](https://haven.commonground.nl/), een kandidaat-standaard van VNG voor cloud-agnostische infrastructuur. De Haven standaard schrijft een specifieke inrichting van [Kubernetes](https://kubernetes.io/) voor en zorgt daarmee voor een generieke basis zodat centraal ontwikkelde applicaties zoals Signalen zonder problemen kunnen draaien op omgevingen van verschillende gemeenten.
 
 Gemeenten die aan de slag gaan met Signalen richten hun omgeving vaak in volgens deze Haven standaard, zodat ze zeker weten dat applicaties die centraal ontwikkeld zijn goed blijven werken.
 
