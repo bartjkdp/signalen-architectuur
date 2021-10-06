@@ -24,7 +24,7 @@ Aan de rechterkant van de afbeelding staat het Continous Delivery (CD) gedeelte,
 
 - Een Kubernetes cluster, ingericht volgens de Haven standaard.
 - Een configuratierepository in Git waarin de specifieke instellingen voor een gemeente bewaard worden (bijv. versie, logo, gemeentenaam).
-- Een GitOps tool zoals [Flux](https://fluxcd.io/) of [Argo CD](https://argoproj.github.io/argo-cd/) waarmee de instellingen geautomatiseerd toegepast worden op het cluster.
+- De GitOps tool [Flux](https://fluxcd.io/) of [Argo CD](https://argoproj.github.io/argo-cd/) waarmee de instellingen geautomatiseerd toegepast worden op het cluster.
 
 Om een configuratiewijziging door te voeren of om een nieuwe versie van Signalen te installeren maakt de systeembeheerder een wijziging aan in een van de configuratiebestanden in de repository. Na goedkeuring wordt deze wijzing automatisch doorgevoerd. De GitOps tool pakt deze wijzing vervolgens automatisch op en voert de gevraagde wijzingen door op het Kubernetes cluster.
 
