@@ -30,7 +30,7 @@ Om een configuratiewijziging door te voeren of om een nieuwe versie van Signalen
 
 ## Additionele tools
 
-Verder worden door verschillende Signalen gemeenten de volgende tools gebruikt voor bijvoorbeeld het monitoren van de applicatie:
+Verder worden door verschillende Signalen gemeenten de volgende tools gebruikt voor het monitoren van de applicatie:
 
 - [Loki](https://grafana.com/oss/loki/) voor opslaan van de containerlogs.
 - [Prometheus](https://prometheus.io/) voor het opslaan van metrics.
