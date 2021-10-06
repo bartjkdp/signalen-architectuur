@@ -16,7 +16,7 @@ Gemeenten die aan de slag gaan met Signalen richten hun omgeving vaak in volgens
 
 ## Geautomatiseerd uitrollen van de software voor één gemeente
 
-![Architectuur voor ontwikkeling en beheer (CI/CD) van Signalen](./architectuur.png)
+![Architectuur voor ontwikkeling en beheer (CI/CD) van Signalen](./signalen-ci-cd.png)
 
 In de bovenstaande afbeelding is de hele architectuur te zien. Links zie je de Git repository voor de backend en frontend op Github en de automatische publicatie naar Dockerhub. Ook wel het Continuous Integration (CI) gedeelte genoemd. Alles aan de linkerkant gebeurt maximaal één keer.
 
