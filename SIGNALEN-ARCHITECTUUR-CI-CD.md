@@ -28,9 +28,9 @@ Aan de rechterkant van de afbeelding staat het Continous Delivery (CD) gedeelte,
 
 Om een configuratiewijziging door te voeren of om een nieuwe versie van Signalen te installeren maakt de systeembeheerder een wijziging aan in een van de configuratiebestanden in de repository. Na goedkeuring wordt deze wijzing automatisch doorgevoerd. De GitOps tool pakt deze wijzing vervolgens automatisch op en voert de gevraagde wijzingen door op het Kubernetes cluster.
 
-## Monitoring + metrics
+## Additionele tools
 
-Voor de monitoring en metrics van Signalen gebruiken de gemeenten de volgende tools:
+Verder worden door verschillende Signalen gemeenten de volgende tools gebruikt voor bijvoorbeeld het monitoren van de applicatie:
 
 - [Loki](https://grafana.com/oss/loki/) voor opslaan van de containerlogs.
 - [Prometheus](https://prometheus.io/) voor het opslaan van metrics.
