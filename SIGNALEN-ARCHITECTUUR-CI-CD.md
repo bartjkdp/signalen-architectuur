@@ -18,7 +18,7 @@ Gemeenten die aan de slag gaan met Signalen richten hun omgeving vaak in volgens
 
 ![Architectuur voor ontwikkeling en beheer (CI/CD) van Signalen](./signalen-ci-cd.png)
 
-In de bovenstaande afbeelding is de hele architectuur te zien. Links zie je de Git repository voor de backend en frontend op Github en de automatische publicatie naar Dockerhub. Ook wel het Continuous Integration (CI) gedeelte genoemd. Alles aan de linkerkant gebeurt maximaal één keer.
+In de bovenstaande afbeelding is de hele architectuur te zien. Links zie je de Git repository voor de backend en frontend op Github en de automatische publicatie naar Dockerhub. Ook wel het Continuous Integration (CI) gedeelte genoemd. Het bouwen en publiceren van de Docker images gebeurt centraal één keer voor alle gemeenten.
 
 Aan de rechterkant van de afbeelding staat het Continous Delivery (CD) gedeelte, dit is een eigen omgeving voor iedere gemeente. Voor de meeste Signalen gemeenten bestaat dat uit de volgende bouwblokken:
 
