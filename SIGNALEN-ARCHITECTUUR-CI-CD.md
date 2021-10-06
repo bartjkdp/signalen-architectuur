@@ -1,6 +1,6 @@
 # Architectuur voor ontwikkeling en beheer (CI/CD) Signalen
 
-Signalen wordt [open source ontwikkeld op Github](https://github.com/Signalen). Op deze plek werken de softwareontwikkelaars samen en worden iedere versie van de software automatisch getest en worden resultaten van de tests teruggekoppeld aan de ontwikkelaars.
+Signalen wordt [open source ontwikkeld op Github](https://github.com/Signalen). Op deze plek werken de softwareontwikkelaars samen, wordt iedere versie van de software automatisch getest en worden resultaten van de tests teruggekoppeld aan de ontwikkelaars.
 
 Ontwikkelaars kunnen via Github wijzigingen aan de code van Signalen voorstellen door middel van een pull request. Na goedkeuring van een van de Signalen teamleden wordt een wijziging doorgevoerd in een nieuwe versie van Signalen.
 
